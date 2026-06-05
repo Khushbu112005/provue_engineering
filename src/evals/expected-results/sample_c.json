@@ -1,0 +1,92 @@
+{
+  "q1Spend": 709193,
+  "q1SpendFormatted": "₹7,09,193.00",
+  "foodSpendMarch2025": 15853.25,
+  "foodSpendMarch2025Formatted": "₹15,853.25",
+  "rentSpend": 477080.47,
+  "rentSpendFormatted": "₹4,77,080.47",
+  "portfolioValue": 76562.69,
+  "portfolioValueFormatted": "₹76,562.69",
+  "portfolioGain": 19228.49,
+  "portfolioGainFormatted": "₹19,228.49",
+  "portfolioReturnPct": 33.54,
+  "portfolioReturnPctFormatted": "+33.54%",
+  "holdingReturnDetail": {
+    "fundId": "fund_bluechip",
+    "fundName": "Saffron Bluechip Equity Fund",
+    "realizedReturnPct": 51.85,
+    "realizedReturnFormatted": "+51.85%",
+    "units": 107.13,
+    "purchaseCost": 11816.44,
+    "currentValue": 17943.2
+  },
+  "fundPeriodReturnDetail": {
+    "fundId": "fund_bluechip",
+    "fundName": "Saffron Bluechip Equity Fund",
+    "periodReturnPct": 26.3,
+    "periodReturnFormatted": "+26.30%"
+  },
+  "subscriptionCount": 12,
+  "subscriptions": [
+    {
+      "merchant": "NETFLIX",
+      "frequency": "monthly",
+      "avgAmount": 644.41
+    },
+    {
+      "merchant": "SPOTIFY",
+      "frequency": "monthly",
+      "avgAmount": 158.53
+    },
+    {
+      "merchant": "TATA POWER",
+      "frequency": "monthly",
+      "avgAmount": 2503.71
+    },
+    {
+      "merchant": "FLIPKART INTERNET",
+      "frequency": "quarterly",
+      "avgAmount": 3490.02
+    },
+    {
+      "merchant": "ATRIA CONVERGENCE TECHNOLOGIES",
+      "frequency": "monthly",
+      "avgAmount": 1140.65
+    },
+    {
+      "merchant": "CULT FIT",
+      "frequency": "monthly",
+      "avgAmount": 1570.35
+    },
+    {
+      "merchant": "ACT FIBERNET",
+      "frequency": "monthly",
+      "avgAmount": 1224.34
+    },
+    {
+      "merchant": "CULTFIT",
+      "frequency": "quarterly",
+      "avgAmount": 1710.23
+    },
+    {
+      "merchant": "HDFC BANK RENT",
+      "frequency": "monthly",
+      "avgAmount": 31614.09
+    },
+    {
+      "merchant": "NEFT RENT HDFC",
+      "frequency": "monthly",
+      "avgAmount": 29437.6
+    },
+    {
+      "merchant": "ACT FIBERNET",
+      "frequency": "quarterly",
+      "avgAmount": 1060.06
+    },
+    {
+      "merchant": "TATA POWER",
+      "frequency": "quarterly",
+      "avgAmount": 2344.53
+    }
+  ]
+}

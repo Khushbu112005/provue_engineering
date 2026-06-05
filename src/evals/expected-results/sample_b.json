@@ -1,0 +1,102 @@
+{
+  "q1Spend": 558993.02,
+  "q1SpendFormatted": "₹5,58,993.02",
+  "foodSpendMarch2025": 13813.38,
+  "foodSpendMarch2025Formatted": "₹13,813.38",
+  "rentSpend": 472872.18,
+  "rentSpendFormatted": "₹4,72,872.18",
+  "portfolioValue": 100341.75,
+  "portfolioValueFormatted": "₹1,00,341.75",
+  "portfolioGain": 21702.12,
+  "portfolioGainFormatted": "₹21,702.12",
+  "portfolioReturnPct": 27.6,
+  "portfolioReturnPctFormatted": "+27.60%",
+  "holdingReturnDetail": {
+    "fundId": "fund_bluechip",
+    "fundName": "Saffron Bluechip Equity Fund",
+    "realizedReturnPct": 20.78,
+    "realizedReturnFormatted": "+20.78%",
+    "units": 62.39,
+    "purchaseCost": 6225.27,
+    "currentValue": 7518.62
+  },
+  "fundPeriodReturnDetail": {
+    "fundId": "fund_bluechip",
+    "fundName": "Saffron Bluechip Equity Fund",
+    "periodReturnPct": 21.65,
+    "periodReturnFormatted": "+21.65%"
+  },
+  "subscriptionCount": 14,
+  "subscriptions": [
+    {
+      "merchant": "SPOTIFY",
+      "frequency": "monthly",
+      "avgAmount": 161.56
+    },
+    {
+      "merchant": "NETFLIX",
+      "frequency": "monthly",
+      "avgAmount": 643.53
+    },
+    {
+      "merchant": "MGL",
+      "frequency": "monthly",
+      "avgAmount": 937.57
+    },
+    {
+      "merchant": "YOUTUBE PREMIUM",
+      "frequency": "monthly",
+      "avgAmount": 170.16
+    },
+    {
+      "merchant": "GOOGLE YOUTUBE",
+      "frequency": "monthly",
+      "avgAmount": 177.7
+    },
+    {
+      "merchant": "ACT FIBERNET",
+      "frequency": "quarterly",
+      "avgAmount": 1088.21
+    },
+    {
+      "merchant": "MAHANAGAR GAS",
+      "frequency": "monthly",
+      "avgAmount": 921.95
+    },
+    {
+      "merchant": "CULTFIT",
+      "frequency": "monthly",
+      "avgAmount": 1731.08
+    },
+    {
+      "merchant": "FLIPKART INTERNET",
+      "frequency": "monthly",
+      "avgAmount": 3123.47
+    },
+    {
+      "merchant": "ATRIA CONVERGENCE TECHNOLOGIES",
+      "frequency": "quarterly",
+      "avgAmount": 1232.41
+    },
+    {
+      "merchant": "CULT FIT",
+      "frequency": "quarterly",
+      "avgAmount": 1634.28
+    },
+    {
+      "merchant": "ATRIA CONVERGENCE TECHNOLOGIES",
+      "frequency": "quarterly",
+      "avgAmount": 1001.86
+    },
+    {
+      "merchant": "HDFC BANK RENT",
+      "frequency": "monthly",
+      "avgAmount": 28377.9
+    },
+    {
+      "merchant": "NEFT RENT HDFC",
+      "frequency": "quarterly",
+      "avgAmount": 32597.34
+    }
+  ]
+}

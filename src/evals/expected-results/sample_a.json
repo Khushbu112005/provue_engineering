@@ -1,0 +1,87 @@
+{
+  "q1Spend": 697195.47,
+  "q1SpendFormatted": "₹6,97,195.47",
+  "foodSpendMarch2025": 4075.17,
+  "foodSpendMarch2025Formatted": "₹4,075.17",
+  "rentSpend": 472284.88,
+  "rentSpendFormatted": "₹4,72,284.88",
+  "portfolioValue": 119983.8,
+  "portfolioValueFormatted": "₹1,19,983.80",
+  "portfolioGain": 22627.09,
+  "portfolioGainFormatted": "₹22,627.09",
+  "portfolioReturnPct": 23.24,
+  "portfolioReturnPctFormatted": "+23.24%",
+  "holdingReturnDetail": {
+    "fundId": "fund_bluechip",
+    "fundName": "Saffron Bluechip Equity Fund",
+    "realizedReturnPct": 30.94,
+    "realizedReturnFormatted": "+30.94%",
+    "units": 159.07,
+    "purchaseCost": 19311.1,
+    "currentValue": 25285.77
+  },
+  "fundPeriodReturnDetail": {
+    "fundId": "fund_bluechip",
+    "fundName": "Saffron Bluechip Equity Fund",
+    "periodReturnPct": 31.17,
+    "periodReturnFormatted": "+31.17%"
+  },
+  "subscriptionCount": 11,
+  "subscriptions": [
+    {
+      "merchant": "SPOTIFY",
+      "frequency": "monthly",
+      "avgAmount": 159.37
+    },
+    {
+      "merchant": "TATA POWER",
+      "frequency": "monthly",
+      "avgAmount": 2466.19
+    },
+    {
+      "merchant": "NETFLIX",
+      "frequency": "monthly",
+      "avgAmount": 649.84
+    },
+    {
+      "merchant": "CULT FIT",
+      "frequency": "monthly",
+      "avgAmount": 1783.35
+    },
+    {
+      "merchant": "NOTION",
+      "frequency": "monthly",
+      "avgAmount": 791.29
+    },
+    {
+      "merchant": "ACT FIBERNET",
+      "frequency": "monthly",
+      "avgAmount": 1139.48
+    },
+    {
+      "merchant": "NOTION LABS",
+      "frequency": "monthly",
+      "avgAmount": 790.88
+    },
+    {
+      "merchant": "ATRIA CONVERGENCE TECHNOLOGIES",
+      "frequency": "monthly",
+      "avgAmount": 1118.6
+    },
+    {
+      "merchant": "CULTFIT",
+      "frequency": "monthly",
+      "avgAmount": 1615.2
+    },
+    {
+      "merchant": "HDFC BANK RENT",
+      "frequency": "quarterly",
+      "avgAmount": 32443.41
+    },
+    {
+      "merchant": "NEFT RENT HDFC",
+      "frequency": "monthly",
+      "avgAmount": 28775.82
+    }
+  ]
+}

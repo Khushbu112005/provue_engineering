@@ -1,0 +1,33 @@
+{
+  "name": "finance-research-agent",
+  "version": "1.0.0",
+  "description": "Tara - Personal Finance Research Agent",
+  "type": "module",
+  "main": "src/api/server.ts",
+  "scripts": {
+    "dev": "tsx src/api/server.ts",
+    "start": "node dist/api/server.js",
+    "build": "tsc",
+    "ingest": "tsx src/ingest/ingest.ts",
+    "evals": "tsx src/evals/evals.ts",
+    "test:reliability": "tsx src/evals/reliability-test.ts",
+    "test:performance": "tsx src/evals/performance-test.ts",
+    "test:generalization": "tsx src/evals/generalization-check.ts"
+  },
+  "dependencies": {
+    "@mastra/core": "^1.41.0",
+    "dotenv": "^16.4.5",
+    "drizzle-orm": "^0.30.10",
+    "express": "^5.0.0",
+    "pg": "^8.11.5",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^20.12.12",
+    "@types/pg": "^8.11.6",
+    "drizzle-kit": "^0.21.4",
+    "tsx": "^4.10.5",
+    "typescript": "^5.4.5"
+  }
+}
